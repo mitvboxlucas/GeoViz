@@ -1,0 +1,7 @@
+﻿Coluna,Unidade,Descrição
+hora,horas,Tempo de monitoramento (0 a 24h)
+profundidade_m,metros,Profundidade do sensor no solo
+deslocamento_mm,milímetros,Deslocamento horizontal ou vertical do solo
+pressao_poros_kpa,kPa,Pressão da água nos poros do solo
+temperatura_c,°C,Temperatura do solo
+vibracao_mm_s,mm/s,"Vibração do solo (ex: tráfego, máquinas)"
